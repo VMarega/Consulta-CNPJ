@@ -1,0 +1,1 @@
+const cnpj = document.querySelector('[data-cnpj]').value;
